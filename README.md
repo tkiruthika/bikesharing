@@ -64,7 +64,7 @@ For this part of the Challenge, you’ll create a story in Tableau and write a r
 
 ## Summary
 With all the Visualisations done above we can convince the investors that the bike-sharing program in Des Moines is a solid business proposal.
-Two additional visualizations are suggested for future analysis
+Two additional visualizations suggested for future analysis are:
   - Checkout users by age.
   - Checkout by Start and End Stations.
   
