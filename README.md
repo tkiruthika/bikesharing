@@ -59,7 +59,7 @@ Your final results should look similar to the following image:
 ![5](https://user-images.githubusercontent.com/95719819/162659919-5f0fbd1b-2945-4567-828d-c3b0efb0892a.png)
 
 ### Tableau Public Profile
-https://public.tableau.com/app/profile/kiruthika.thinakaran/viz/bikesharing_16496463925600/Story2
+https://public.tableau.com/app/profile/kiruthika.thinakaran
 
 ### Delieverable 3
 
